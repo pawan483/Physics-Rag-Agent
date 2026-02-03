@@ -15,6 +15,8 @@ A **Retrieval-Augmented Generation (RAG)** based agent that provides **detailed,
 
 This app retrieves relevant physics documents, builds contextual understanding, and generates clear explanations for complex topics such as **string theory, dark energy, time dilation**, and more.
 
+You can try the deployed model here: [Hugging Face Space](https://huggingface.co/spaces/pawanpaluvuri/RagAgenticBot)
+
 ---
 
 ## 🚀 Features
